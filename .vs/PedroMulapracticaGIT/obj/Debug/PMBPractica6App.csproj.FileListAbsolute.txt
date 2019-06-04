@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\bin\Debug\PMBPractica6App.exe.config
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\bin\Debug\PMBPractica6App.exe
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\bin\Debug\PMBPractica6App.pdb
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.Properties.Resources.resources
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.exe
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.pdb
+C:\Users\pedro\source\repos\PMBPractica6App\PMBPractica6App\obj\Debug\PMBPractica6App.Form1.resources
