@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git",
+    "\\Configuración local (.vs)",
+    "\\Configuración local (.vs)\\PedroMulapracticaGIT"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Configuración local (.vs)\\PedroMulapracticaGIT\\ClaseAlumnoyAlumnos.cs",
+  "PreviewInSolutionExplorer": true
 }
