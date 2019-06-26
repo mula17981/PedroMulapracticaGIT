@@ -3,8 +3,9 @@
     "",
     "\\.git",
     "\\Configuración local (.vs)",
-    "\\Configuración local (.vs)\\PedroMulapracticaGIT"
+    "\\Configuración local (.vs)\\PedroMulapracticaGIT",
+    "\\Configuración local (.vs)\\PMBPractica6OtherUser"
   ],
-  "SelectedNode": "\\Configuración local (.vs)\\PedroMulapracticaGIT\\ClaseAlumnoyAlumnos.cs",
+  "SelectedNode": "\\Configuración local (.vs)\\PMBPractica6App.sln",
   "PreviewInSolutionExplorer": true
 }
